@@ -1,5 +1,5 @@
 # babyname
-Generator of baby'name
+Generator of baby's name
 
 ###usage
 * Install
@@ -12,6 +12,7 @@ var babyname = require('babyname')
 console.log(babyname.generate())
 console.log(babyname.generate('张*'))
 console.log(babyname.generate('张**'))
+console.log(babyname.generate('张大*'))
 ```
 * Command Line
 ```sh
