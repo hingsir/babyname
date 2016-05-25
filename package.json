@@ -1,7 +1,7 @@
 {
   "name": "babyname",
-  "version": "1.0.0",
-  "description": "Generator of baby'name",
+  "version": "1.0.2",
+  "description": "Generator of baby's name",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
