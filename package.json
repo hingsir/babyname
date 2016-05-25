@@ -1,0 +1,27 @@
+{
+  "name": "babyname",
+  "version": "1.0.0",
+  "description": "Generator of baby'name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "babyname": "./bin/index.js"
+ },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hingsir/babyname.git"
+  },
+  "keywords": [
+    "baby",
+    "name",
+    "chinese name"
+  ],
+  "author": "hingsir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hingsir/babyname/issues"
+  },
+  "homepage": "https://github.com/hingsir/babyname#readme"
+}
